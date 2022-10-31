@@ -1,2 +1,2 @@
 # Primeiro_projeto
-Primeiro projeto desenvolvido durante o aprendizado de PHP, HTML e CSS.
+Primeiro projeto desenvolvido aplicando na prática os conhecimentos de HTML e CSS.
